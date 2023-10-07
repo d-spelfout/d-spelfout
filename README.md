@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dominique (Dominic)</h1>
-<h3 align="center">Tech enthusiast, always learning new things.</h3>
 
----
 - 🔭 I’m currently working on **Printerlynx - 3D Printer Management Platform**
 
 - 🌱 I’m currently learning **WebAssembly, Wasmer.io**
